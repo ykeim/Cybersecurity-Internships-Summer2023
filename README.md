@@ -15,4 +15,5 @@
 | Allison Transmission       | IT Security Risk and Compliance Intern | [Link](https://allisontransmission.wd1.myworkdayjobs.com/ATI-External/job/Indianapolis-IN/IT-Security-Risk-and-Compliance-Intern_R004101?source=Linkedin) | 10/26/2022   |
 | Crowstrike      | Product Security Intern | [Link](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Product-Security-Intern---Summer-2023--USA---Remote-_R10866?source=LinkedIn_jobs) | 10/26/2022   |
 | Kivu      | IT Services and Security Intern | [Link](https://kivu.bamboohr.com/careers/85?source=aWQ9MTk%3D) | 10/26/2022   |
+| Whirpool      | Cybersecurity Intern | [Link](https://whirlpool.eightfold.ai/careers?pid=34373769800&domain=whirlpool.com) | 10/26/2022   |
 
