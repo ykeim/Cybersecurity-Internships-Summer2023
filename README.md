@@ -12,3 +12,7 @@
 | HP       | Product Security Intern | [Link](https://jobs.hp.com/jobdetails/16597466/hbcu-conf-internship-cybersecurity-product-security-intern-austin-tx/) | 10/25/2022   |
 | Tanium       | Product Security Intern | [Link](https://www.tanium.com/careers/4511135?gh_jid=4511135) | 10/26/2022   |
 | Activision Blizzard       | Cybersecurity Intern | [Link](https://careers.activisionblizzard.com/job/ACCOUSR017326EXTERNAL/Cyber-Security-Internship?utm_source=linkedin&utm_medium=phenom-feeds) | 10/26/2022   |
+| Allison Transmission       | IT Security Risk and Compliance Intern | [Link](https://allisontransmission.wd1.myworkdayjobs.com/ATI-External/job/Indianapolis-IN/IT-Security-Risk-and-Compliance-Intern_R004101?source=Linkedin) | 10/26/2022   |
+| Crowstrike      | Product Security Intern | [Link](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Product-Security-Intern---Summer-2023--USA---Remote-_R10866?source=LinkedIn_jobs) | 10/26/2022   |
+| Kivu      | IT Services and Security Intern | [Link](https://kivu.bamboohr.com/careers/85?source=aWQ9MTk%3D) | 10/26/2022   |
+
