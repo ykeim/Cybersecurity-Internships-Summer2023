@@ -9,3 +9,4 @@
 | Verizon        | Cyber Security Summer Internship | [Link](https://jobs.verizon.com/jobs/10752454-cyber-security-summer-internship-2023-remote?tm_job=612166-1A&tm_event=view&tm_company=781&bid=370&CID=oso_LinkedIn_LinkedInWraps&utm_source=LinkedIn&utm_medium=paidsocial&utm_campaign=LinkedInWraps&dclid=CJfYnrG04PoCFYHNwAodzlQGSA) | 10/14/2022   |
 | Hitachi Energy        | Security Analyst Intern | [Link](https://www.hitachienergy.com/career/jobs/details/US54260965_E1) | 10/21/2022   |
 | Equifax       | Global Security Intern | [Link](https://www.wayup.com/i-Financial-Services-j-Atlanta-Global-Security-Intern-Summer-2023-Equifax-704849377829123/?utm_source=linkedin-xml&utm_medium=jobxml&utm_campaign=linkedin-XML-APPS-1114466-30540554&refer=lnkslot-APPS-1114466-30540554) | 10/21/2022   |
+| HP       | Product Security Intern | [Link](https://jobs.hp.com/jobdetails/16597466/hbcu-conf-internship-cybersecurity-product-security-intern-austin-tx/) | 10/25/2022   |
