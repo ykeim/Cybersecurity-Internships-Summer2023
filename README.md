@@ -10,3 +10,5 @@
 | Hitachi Energy        | Security Analyst Intern | [Link](https://www.hitachienergy.com/career/jobs/details/US54260965_E1) | 10/21/2022   |
 | Equifax       | Global Security Intern | [Link](https://www.wayup.com/i-Financial-Services-j-Atlanta-Global-Security-Intern-Summer-2023-Equifax-704849377829123/?utm_source=linkedin-xml&utm_medium=jobxml&utm_campaign=linkedin-XML-APPS-1114466-30540554&refer=lnkslot-APPS-1114466-30540554) | 10/21/2022   |
 | HP       | Product Security Intern | [Link](https://jobs.hp.com/jobdetails/16597466/hbcu-conf-internship-cybersecurity-product-security-intern-austin-tx/) | 10/25/2022   |
+| Tanium       | Product Security Intern | [Link](https://www.tanium.com/careers/4511135?gh_jid=4511135) | 10/26/2022   |
+| Activision Blizzard       | Cybersecurity Intern | [Link](https://careers.activisionblizzard.com/job/ACCOUSR017326EXTERNAL/Cyber-Security-Internship?utm_source=linkedin&utm_medium=phenom-feeds) | 10/26/2022   |
