@@ -25,4 +25,8 @@ Please note that is is not an exhaustive list and is only limited to Digital For
 | ERCOT      | Cybersecurity Intern | [Link](https://ercot.wd1.myworkdayjobs.com/ercot_careers/job/Austin-TX/Summer-Intern-2023---Cyber-Security_R1195) | 11/02/2022   | 
 | Nissan      | Information Security Intern | [Link](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Nissan-Americas-Headquarters---Franklin/Information-Security-Intern_R00122356?source=Linkedin) | 11/02/2022   |
 | JLL      | Information Security Intern | [Link](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Chicago-IL/Security-Summer-2023-Internship---Chicago_REQ251881-1?source=APPLICANT_SOURCE-6-42) | 11/02/2022   |
-| Parsons      | Associate Security Analysts Intern | [Link](https://www.linkedin.com/jobs/view/3340303113) | 11/02/2022   |
+| Parsons      | Associate Security Analyst Intern | [Link](https://www.linkedin.com/jobs/view/3340303113) | 11/02/2022   |
+| Langan      | Cybersecurity Intern | [Link](https://careers.langan.com/job/Parsippany-Cyber-Security-Intern-or-Co-op-Fall-2022-&-Spring-2023-NJ-07054-2172/930203600/?from=email&refid=17547992200&utm_source=J2WEmail&source=2&eid=139200-202209311009-25175092200&locale=en_US) | 11/02/2022   |
+| Visa      | Cybersecurity Summer Intern | [Link](https://usa.visa.com/en_us/jobs/REF53129G) | 11/02/2022   |
+| Ingredion      | Global Information Security Intern | [Link](https://ingredion.wd1.myworkdayjobs.com/en-US/IngredionCareers/job/Westchester-IL/Global-Information-Security-Intern---Westchester--IL_Req-23422?source=APPLICANT_SOURCE-3-35) | 11/02/2022   |
+| Amway      | Information Security Specialist Intern | [Link](https://jobs.amway.com/job/Ada-Intern-Information-Security-MI-49355/943383700/) | 11/02/2022   |
