@@ -1,5 +1,7 @@
 # Cybersecurity-Internships-Summer2023
 
+Please note that is is not an exhaustive list and is only limited to Digital Forensics, Information Security, Cloud Security, Product Security, Risk, and Compliance in the United States.
+
 | Company        | Role Name                              | Link      | Accessed On |
 | -------------- |:----------------------------------------|:----------|:------------|
 | TikTok        | Information Security Engineering Intern | [Link](https://careers.tiktok.com/position/7146361354784753928/detail?spread=5MWH5CQ) | 10/14/2022   |
