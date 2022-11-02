@@ -16,4 +16,11 @@
 | Crowstrike      | Product Security Intern | [Link](https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Remote/Product-Security-Intern---Summer-2023--USA---Remote-_R10866?source=LinkedIn_jobs) | 10/26/2022   |
 | Kivu      | IT Services and Security Intern | [Link](https://kivu.bamboohr.com/careers/85?source=aWQ9MTk%3D) | 10/26/2022   |
 | Whirpool      | Cybersecurity Intern | [Link](https://whirlpool.eightfold.ai/careers?pid=34373769800&domain=whirlpool.com) | 10/26/2022   |
-
+| TikTok      | Cybersecurity Intern | [Link](https://careers.tiktok.com/position/7146272996637624607/detail) | 11/02/2022   |
+| Mastercard      | Cyber Threat Intelligence Intern | [Link](https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Cyber-Threat-Intelligence-Internship_R-177817-1) | 11/02/2022   |
+| Microsoft      | Systems Security and Privacy Intern | [Link](https://careers.microsoft.com/us/en/job/1479176/Research-Intern-Systems-Security-and-Privacy?jobsource=linkedin&utm_source=linkedin&utm_medium=linkedin&utm_campaign=linkedin-feed) | 11/02/2022   |
+| StoneX      | Cybersecurity Intern | [Link](https://elpo.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/3406?utm_medium=jobshare) | 11/02/2022   |
+| ERCOT      | Cybersecurity Intern | [Link](https://ercot.wd1.myworkdayjobs.com/ercot_careers/job/Austin-TX/Summer-Intern-2023---Cyber-Security_R1195) | 11/02/2022   | 
+| Nissan      | Information Security Intern | [Link](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Nissan-Americas-Headquarters---Franklin/Information-Security-Intern_R00122356?source=Linkedin) | 11/02/2022   |
+| JLL      | Information Security Intern | [Link](https://jll.wd1.myworkdayjobs.com/jllcareers/job/Chicago-IL/Security-Summer-2023-Internship---Chicago_REQ251881-1?source=APPLICANT_SOURCE-6-42) | 11/02/2022   |
+| Parsons      | Associate Security Analysts Intern | [Link](https://www.linkedin.com/jobs/view/3340303113) | 11/02/2022   |
