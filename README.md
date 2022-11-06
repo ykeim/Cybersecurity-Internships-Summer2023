@@ -31,8 +31,7 @@ Please note that is is not an exhaustive list and is only limited to Digital For
 | Ingredion      | Global Information Security Intern | [Link](https://ingredion.wd1.myworkdayjobs.com/en-US/IngredionCareers/job/Westchester-IL/Global-Information-Security-Intern---Westchester--IL_Req-23422?source=APPLICANT_SOURCE-3-35) | 11/02/2022   |
 | Amway      | Information Security Specialist Intern | [Link](https://jobs.amway.com/job/Ada-Intern-Information-Security-MI-49355/943383700/) | 11/02/2022   |
 | Gilead      | IT Security Engineer Intern | [Link](https://gilead.wd1.myworkdayjobs.com/en-US/gileadcareers/job/United-States---California---Foster-City/Intern---IT-Security-Engineer_R0032772?source=Indeed) | 11/05/2022   |
-| Microsoft      | Cloud and Infrastructure Research Intern | [Link](https://careers.microsoft.com/us/en/job/1489134/Research-Intern-Cloud-and-Infrastructure-Security-Group?jobsource=indeed&utm_source=indeed&utm_medium=indeed&utm_campaign=indeed-feed) | 11/05/2022   |
-ty/Intern---IT-Security-Engineer_R0032772?source=Indeed) | 11/05/2022   |
+| Microsoft      | Cloud and Infrastructure Research Intern | [Link](https://careers.microsoft.com/us/en/job/1489134/Research-Intern-Cloud-and-Infrastructure-Security-Group?jobsource=indeed&utm_source=indeed&utm_medium=indeed&utm_campaign=indeed-feed) | 11/05/2022   | 11/05/2022   |
 | IEX      | Cybersecurity Analyst Intern | [Link](https://iex.io/careers/apply/index.html?gh_jid=4595073&gh_src=5b1a36f61us) | 11/05/2022   |
 | Duck Creek Technologies      | Security Operations Intern | [Link](https://duckcreek.wd1.myworkdayjobs.com/en-US/duckcreekcareers/job/Boston-MA/Security-Operations-Intern_REQID53341) | 11/05/2022   |
 | Standard Industries      | Cybersecurity Intern | [Link](https://gafsgi.wd5.myworkdayjobs.com/Standard_Careers/job/New-York-NY/Cybersecurity-Intern_17017) | 11/05/2022   |
