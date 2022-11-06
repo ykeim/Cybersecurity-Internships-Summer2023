@@ -30,3 +30,11 @@ Please note that is is not an exhaustive list and is only limited to Digital For
 | Visa      | Cybersecurity Summer Intern | [Link](https://usa.visa.com/en_us/jobs/REF53129G) | 11/02/2022   |
 | Ingredion      | Global Information Security Intern | [Link](https://ingredion.wd1.myworkdayjobs.com/en-US/IngredionCareers/job/Westchester-IL/Global-Information-Security-Intern---Westchester--IL_Req-23422?source=APPLICANT_SOURCE-3-35) | 11/02/2022   |
 | Amway      | Information Security Specialist Intern | [Link](https://jobs.amway.com/job/Ada-Intern-Information-Security-MI-49355/943383700/) | 11/02/2022   |
+| Gilead      | IT Security Engineer Intern | [Link](https://gilead.wd1.myworkdayjobs.com/en-US/gileadcareers/job/United-States---California---Foster-City/Intern---IT-Security-Engineer_R0032772?source=Indeed) | 11/05/2022   |
+| Microsoft      | Cloud and Infrastructure Research Intern | [Link](https://careers.microsoft.com/us/en/job/1489134/Research-Intern-Cloud-and-Infrastructure-Security-Group?jobsource=indeed&utm_source=indeed&utm_medium=indeed&utm_campaign=indeed-feed) | 11/05/2022   |
+ty/Intern---IT-Security-Engineer_R0032772?source=Indeed) | 11/05/2022   |
+| IEX      | Cybersecurity Analyst Intern | [Link](https://iex.io/careers/apply/index.html?gh_jid=4595073&gh_src=5b1a36f61us) | 11/05/2022   |
+| Duck Creek Technologies      | Security Operations Intern | [Link](https://duckcreek.wd1.myworkdayjobs.com/en-US/duckcreekcareers/job/Boston-MA/Security-Operations-Intern_REQID53341) | 11/05/2022   |
+| Standard Industries      | Cybersecurity Intern | [Link](https://gafsgi.wd5.myworkdayjobs.com/Standard_Careers/job/New-York-NY/Cybersecurity-Intern_17017) | 11/05/2022   |
+| Cox Enterprises      | Cybersecurity Intern | [Link](https://jobs.coxenterprises.com/en/jobs/job/r202211639-2023-cai-summer-intern-cybersecurity/?rx_c=cai&rx_cid=3287&rx_job=R202211639&rx_medium=post&rx_paid=0&rx_r=none&rx_source=LinkedIn&rx_ts=20221105T143401Z&source=Linkedin_Limited_Listings&utm_campaign=cai_organic&utm_medium=Limited_Listings&utm_source=Linkedin&rx_viewer=fb09b4445d7411eda4d37d3d69adc8554e84ce8e8bbf4350bc77eba986772b35) | 11/05/2022   |
+| Grafana Labs      | Cybersecurity Intern | [Link](https://boards.greenhouse.io/grafanalabs/jobs/4684978004?source=LinkedIn) | 11/05/2022   |
