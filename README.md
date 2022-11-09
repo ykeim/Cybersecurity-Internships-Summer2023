@@ -43,3 +43,5 @@ Please note that is is not an exhaustive list and is only limited to Digital For
 | Mass Mutual      | Cyber Risk Intern | [Link](https://careers.massmutual.com/job/16958834/cyber-risk-intern-ma-statewide/) | 11/08/2022   |
 | MISO      | Cybersecurity Intern | [Link](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=ffbc8373-da94-43fd-a1bd-c233d33e58ae&ccId=19000101_000001&type=JS&lang=en_US) | 11/08/2022   |
 | Nordstorm      | Cybersecurity Intern | [Link](https://nordstrom.wd5.myworkdayjobs.com/en-US/nordstrom_internship/jobs/details/Cyber-Security-Internship-Summer-2023_R-481310?q=cyber) | 11/08/2022   |
+| Dick's Sporting Good      | Cybersecurity Intern | [Link](https://www.dickssportinggoods.jobs/jobs/16921849/cybersecurity-intern-summer-2023-coraopolis-pa/?src=11663) | 11/08/2022   |
+| Moss Adams      | Cybersecurity Intern | [Link](https://mossadams.taleo.net/careersection/7/jobdetail.ftl?job=23932&lang=en) | 11/08/2022   |
