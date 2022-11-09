@@ -37,3 +37,8 @@ Please note that is is not an exhaustive list and is only limited to Digital For
 | Standard Industries      | Cybersecurity Intern | [Link](https://gafsgi.wd5.myworkdayjobs.com/Standard_Careers/job/New-York-NY/Cybersecurity-Intern_17017) | 11/05/2022   |
 | Cox Enterprises      | Cybersecurity Intern | [Link](https://jobs.coxenterprises.com/en/jobs/job/r202211639-2023-cai-summer-intern-cybersecurity/?rx_c=cai&rx_cid=3287&rx_job=R202211639&rx_medium=post&rx_paid=0&rx_r=none&rx_source=LinkedIn&rx_ts=20221105T143401Z&source=Linkedin_Limited_Listings&utm_campaign=cai_organic&utm_medium=Limited_Listings&utm_source=Linkedin&rx_viewer=fb09b4445d7411eda4d37d3d69adc8554e84ce8e8bbf4350bc77eba986772b35) | 11/05/2022   |
 | Grafana Labs      | Cybersecurity Intern | [Link](https://boards.greenhouse.io/grafanalabs/jobs/4684978004?source=LinkedIn) | 11/05/2022   |
+| Comcast      | Security Assessments Intern | [Link](https://jobs.comcast.com/jobs/description?job_id=R348857&external_or_internal=external) | 11/08/2022   |
+| Lacework      | Security Research Intern | [Link](https://www.lacework.com/job-openings/?gh_jid=4721056004) | 11/08/2022   |
+| Charles River Associates      | Security Research Intern | [Link](https://boards.greenhouse.io/charlesriverassociates/jobs/4670915?gh_src=dda73a481us#app) | 11/08/2022   |
+| Mass Mutual      | Cyber Risk Intern | [Link](https://careers.massmutual.com/job/16958834/cyber-risk-intern-ma-statewide/) | 11/08/2022   |
+| MISO      | Cybersecurity Intern | [Link](https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=ffbc8373-da94-43fd-a1bd-c233d33e58ae&ccId=19000101_000001&type=JS&lang=en_US) | 11/08/2022   |
