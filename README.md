@@ -50,3 +50,8 @@ Please note that is is not an exhaustive list and is only limited to Digital For
 |Cloudflare      | PhD Cybersecurity Intern | [Link](https://boards.greenhouse.io/cloudflare/jobs/4608360?gh_jid=4608360) | 11/14/2022   |
 |Mass Mutual      | Security Operations and Engineering Intern | [Link](https://massmutual.wd1.myworkdayjobs.com/en-US/MMCareers/job/Springfield-MA/Security-Operations-and-Engineering-Intern_R12993) | 11/14/2022   |
 |Salesforce      | Security GRC Analyst Intern | [Link](https://salesforce.wd1.myworkdayjobs.com/en-US/External_Career_Site/details/Summer-2023-Intern---Security-GRC-Analyst_JR166314-1?q=GRC&source=LinkedIn_Jobs) | 11/14/2022   |
+|Crowstrike      | Intelligence Analyst Intern | [Link](https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Remote/Analyst-Intern--Remote---USA----Summer-2023_R10750s) | 11/15/2022   |
+|Crowstrike      | Falcon Complete Analyst Intern | [Link](https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Austin-TX/Falcon-Complete-Analyst-Intern_R10312) | 11/15/2022   |
+|Tanium      | Cloud Security Intern | [Link](https://www.tanium.com/careers/4511139/) | 11/15/2022   |
+|LPL Financial      | Cybersecurity Intern | [Link](https://lplfinancial.wd1.myworkdayjobs.com/en-US/University/details/Internship-Summer-2023---Technology--Cybersecurity_R-025384?q=cybersecurity) | 11/15/2022   |
+|Mastercard      | Information Security Intern | [Link](https://mastercard.jobs/salt-lake-city-ut/cyber-intelligence-information-security-summer-2023-intern/99C6950950FA4D6B9FD533D7D777B04E/job/) | 11/15/2022   |
