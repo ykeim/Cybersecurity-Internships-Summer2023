@@ -55,3 +55,7 @@ Please note that is is not an exhaustive list and is only limited to Digital For
 |Tanium      | Cloud Security Intern | [Link](https://www.tanium.com/careers/4511139/) | 11/15/2022   |
 |LPL Financial      | Cybersecurity Intern | [Link](https://lplfinancial.wd1.myworkdayjobs.com/en-US/University/details/Internship-Summer-2023---Technology--Cybersecurity_R-025384?q=cybersecurity) | 11/15/2022   |
 |Mastercard      | Information Security Intern | [Link](https://mastercard.jobs/salt-lake-city-ut/cyber-intelligence-information-security-summer-2023-intern/99C6950950FA4D6B9FD533D7D777B04E/job/) | 11/15/2022   |
+|Samsung      | Cybersecurity Intern | [Link](https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/3900-N-Capital-of-Texas-Hwy-Austin-TX-USA/Intern---Cyber-Security_R69940) | 11/17/2022   |
+|Delta Airlines      | Information Security Intern | [Link](https://delta.avature.net/careers/JobDetail/Intern-IT-Information-Security-Summer-2023/17378) | 11/17/2022   |
+|Fenner Precision Polymers    | Cybersecurity Intern | [Link](https://recruiting.ultipro.com/FEN1001FND/JobBoard/db890ac6-d842-481a-ab6d-e8d468263f3d/OpportunityDetail?opportunityId=1323b5ab-307d-4c9b-8eb7-b3c69e36e959) | 11/17/2022   |
+|Bunge    | Cybersecurity Intern | [Link](https://jobs.bunge.com/job/Chesterfield-Information-Security-Intern-MO-63017/868735501/) | 11/17/2022   |
