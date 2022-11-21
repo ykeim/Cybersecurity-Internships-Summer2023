@@ -59,3 +59,5 @@ Please note that is is not an exhaustive list and is only limited to Digital For
 |Delta Airlines      | Information Security Intern | [Link](https://delta.avature.net/careers/JobDetail/Intern-IT-Information-Security-Summer-2023/17378) | 11/17/2022   |
 |Fenner Precision Polymers    | Cybersecurity Intern | [Link](https://recruiting.ultipro.com/FEN1001FND/JobBoard/db890ac6-d842-481a-ab6d-e8d468263f3d/OpportunityDetail?opportunityId=1323b5ab-307d-4c9b-8eb7-b3c69e36e959) | 11/17/2022   |
 |Bunge    | Cybersecurity Intern | [Link](https://jobs.bunge.com/job/Chesterfield-Information-Security-Intern-MO-63017/868735501/) | 11/17/2022   |
+|Yahoo    | Advanced Cyber Threats Intern | [Link](https://ouryahoo.wd5.myworkdayjobs.com/en-US/careers/job/Advanced-Cyber-Threats-Intern_JR0021540) | 11/20/2022   |
+|Onsemi    | Information Security Intern | [Link](https://ouryahoo.wd5.myworkdayjobs.com/en-US/careers/job/Advanced-Cyber-Threats-Intern_JR0021540) | 11/20/2022   |
