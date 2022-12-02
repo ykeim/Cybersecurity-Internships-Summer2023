@@ -61,3 +61,4 @@ Please note that is is not an exhaustive list and is only limited to Digital For
 |Bunge    | Cybersecurity Intern | [Link](https://jobs.bunge.com/job/Chesterfield-Information-Security-Intern-MO-63017/868735501/) | 11/17/2022   |
 |Yahoo    | Advanced Cyber Threats Intern | [Link](https://ouryahoo.wd5.myworkdayjobs.com/en-US/careers/job/Advanced-Cyber-Threats-Intern_JR0021540) | 11/20/2022   |
 |Onsemi    | Information Security Intern | [Link](https://ouryahoo.wd5.myworkdayjobs.com/en-US/careers/job/Advanced-Cyber-Threats-Intern_JR0021540) | 11/20/2022   |
+|JLL Technologies    | Cyberecurity Risj Intern | [Link](https://jll.wd1.myworkdayjobs.com/jlltcareers/job/Chicago-IL/Cyber-Security-Risk-Summer-2023-Internship---Chicago_REQ255507-2) | 12/02/2022   |
