@@ -1,8 +1,8 @@
 # Cybersecurity-Internships-Summer2023
 
-A plausible resume format from LinkedIn: https://bit.ly/3A3iVBX
+Please note that is is not an exhaustive list and is only limited to certain cybersecurity domains such as Digital Forensics, Information Security, Cloud Security, Product Security, Risk, and Compliance in the United States.
 
-Please note that is is not an exhaustive list and is only limited to Digital Forensics, Information Security, Cloud Security, Product Security, Risk, and Compliance in the United States.
+I will also not remove links once they expire, as it is a good repository for future job-hunters indicating what companies they apply to.
 
 | Company        | Role Name                              | Link      | Accessed On |
 | -------------- |:----------------------------------------|:----------|:------------|
